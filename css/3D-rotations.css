@@ -28,7 +28,7 @@
 
 /* Body & steps */
 body {
-    font-family: 'PT Sans', sans-serif;
+    font-family: 'yekan','PT Sans', sans-serif;
     min-height: 740px;
 
     background: #00000f;
@@ -44,7 +44,7 @@ body {
 
     box-sizing:         border-box;
 
-   
+
 
     background-color: white;
     border-radius: 10px;
@@ -52,7 +52,7 @@ body {
 
     text-shadow: 0 2px 2px rgba(0, 0, 0, .1);
 
-    font-family: 'Open Sans', Arial, sans-serif;
+    font-family: 'yekan','Open Sans', Arial, sans-serif;
     font-size: 20pt;
     letter-spacing: -1px;
 
@@ -95,14 +95,14 @@ body {
 	display: block;
     margin-left: auto;
     margin-right: auto;
-   
+
 }
 
 
 /* Content */
 
-h1, 
-h2, 
+h1,
+h2,
 h3 {
     margin-bottom: 0.5em;
     margin-top: 0.5em;
@@ -118,14 +118,14 @@ p1{
     margin-top: 0.1em;
 	font-size: 16px;
 	line-height: 50%;
-	
+
 	padding: 10px 30px;
     margin: 10px auto;
 
 }
 
 li {
-    margin: 0.2em;    
+    margin: 0.2em;
 }
 
 /* Highlight.js used for coloring pre > code blocks. */
@@ -161,11 +161,11 @@ a:focus {
 blockquote {
     font-family: 'PT Serif';
     font-style: italic;
-    font-weight: 400;    
+    font-weight: 400;
 }
 
 em {
-    text-shadow: 0 2px 2px rgba(0, 0, 0, .3);    
+    text-shadow: 0 2px 2px rgba(0, 0, 0, .3);
 }
 
 strong {
@@ -175,7 +175,7 @@ strong {
 q {
     font-family: 'PT Serif';
     font-style: italic;
-    font-weight: 400;    
+    font-weight: 400;
     text-shadow: 0 2px 2px rgba(0, 0, 0, .3);
 }
 
